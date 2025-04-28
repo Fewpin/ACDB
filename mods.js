@@ -11,7 +11,7 @@ const mods = [
     tags: ["street", "Italy"]
   },
   {
-    thumbnail: "https://c10.patreonusercontent.com/4/patreon-media/p/post/94779071/a392faef81554f1796c7f8b8f5c7bf10/eyJ3Ijo2MjB9/1.jpg?token-time=1747094400&token-hash=1UtNrSBUTc0nqFalq6itZwF1K-iwKCtXoZuaUoo_QFk%3D",
+    thumbnail: "./images/c8z06.jpg",
     name: "Chevrolet Corvette C8 Z06 Convertible",
     category: "車両",
     author: "Binary Motors(Jerry Wei)",
