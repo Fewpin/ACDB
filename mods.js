@@ -7,7 +7,7 @@ const mods = [
     author: "Opperslang",
     download: "https://opperslang.gumroad.com/l/ferrarif40custom",
     rating: 5,
-    memo: "精密アニメーション",
+    memo: "good animation",
     tags: ["street", "Italy"]
   },
   {
