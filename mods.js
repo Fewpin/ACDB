@@ -1,7 +1,7 @@
 // mods.js
 const mods = [
   {
-    thumbnail: "https://www.shinacmod.com/wp-content/uploads/2024/01/Screenshot_slang_ferrari_f40_ks_red_bull_ring_29-0-124-14-55-3.jpg",
+    thumbnail: "./images/f40c.jpg",
     name: "Ferrari F40 Custom",
     category: "車両",
     author: "Opperslang",
