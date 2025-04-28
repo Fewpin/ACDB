@@ -21,7 +21,7 @@ const mods = [
     tags: ["street", "USA"]
   },
   {
-    thumbnail: "https://public-files.gumroad.com/hszwf59ved8hc10xdjq8j9irjwkw",
+    thumbnail: "./images/911cs.jpg",
     name: "Porsche 911 991 Street Cup",
     category: "車両",
     author: "Igna More",
@@ -31,7 +31,7 @@ const mods = [
     tags: ["street", "Germany"]
   },
   {
-    thumbnail: "https://public-files.gumroad.com/ty6pqmegnerqc2o1su9145rq6imc",
+    thumbnail: "./images/batifd3s.jpg",
     name: "Mazda RX-7 FD3S Street/Drift",
     category: "車両",
     author: "Igna More",
@@ -41,7 +41,7 @@ const mods = [
     tags: ["street", "日本"]
   },
   {
-    thumbnail: "https://public-files.gumroad.com/fekejlid5xlud4pvcbi6wtd992fy",
+    thumbnail: "./images/e46nspec.jpg",
     name: "BMW M3 E46 N-Spec",
     category: "車両",
     author: "Igna More",
@@ -51,7 +51,7 @@ const mods = [
     tags: ["street", "Germany"]
   },
   {
-    thumbnail: "https://c10.patreonusercontent.com/4/patreon-media/p/post/122355066/f8a756165709494e82221f7682f06ea3/eyJ3Ijo2MjB9/1.png?token-time=1747094400&token-hash=R3tZd0mIXMPXQhj5EHHv66RoXcJ7pWNiPCi7qYRZT4w%3D",
+    thumbnail: "./images/supratrd.jpg",
     name: "Toyota Supra MK4 TRD",
     category: "車両",
     author: "MNBA",
@@ -61,7 +61,7 @@ const mods = [
     tags: ["street", "日本"]
   },
   {
-    thumbnail: "https://ac.totsugeki.com/wp-content/custom/mods/tracks/3183/shuto_revival_project_beta/ui/tatsumi_pa/preview.png",
+    thumbnail: "./images/srp.jpg",
     name: "Shutoko Revival Project",
     category: "コース",
     author: "SRP",
@@ -71,7 +71,7 @@ const mods = [
     tags: ["street", "日本"]
   },
   {
-    thumbnail: "https://cdn.buymeacoffee.com/uploads/rewards/2024-08-18/1/195334_Yar_1.jpg@1200w_0e.jpg",
+    thumbnail: "./images/yarisrz.jpg",
     name: "Toyota GR Yaris RZ",
     category: "車両",
     author: "JohnnieJar",
